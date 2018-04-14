@@ -37,7 +37,7 @@ catalog:
       required: true
       label: "rancher lb port"
       description: "rancher lb port expose to host"
-      default: 10800 
+      default: 8088 
 
     - variable: "traefik_enable"
       label: "Traefik proxy enabled or not"
