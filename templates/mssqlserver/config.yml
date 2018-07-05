@@ -1,4 +1,4 @@
-name: Microsoft Sqlserver
+name: Microsoft SQLSERVER
 description: |
  Microsoft sqlserver 2017 docker edition
 version: 2017-CU8-rancher1
